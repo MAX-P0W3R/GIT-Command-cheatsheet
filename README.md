@@ -1,6 +1,6 @@
-# Top-30-GIT-Commands
+# GIT cheat sheet
 
-## Master these 30 Git commands
+## Top 30 Git commands
 
 1. Set up your username and email
 2. Cache your login credentials
