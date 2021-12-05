@@ -3,7 +3,8 @@
 ## Top 30 Git commands
 
 1. Set up your username and email
-  `git config --global user.name "max-p0w3r"`
+### `git config --global user.name "max-p0w3r"`
+
 2. Cache your login credentials
 3. Initialize a repository
 4. Add individual file or all files to staging area
